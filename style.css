@@ -1,4 +1,9 @@
 body {
-  color: violet;
+  font-family:"Georgia", serif;
 background-image: url('http://static.vecteezy.com/system/resources/previews/000/097/736/original/abstract-robot-background-vector.jpg');
 }
+h1{
+  color: purple;
+  font-family:"Impact", Charcoal, sans-serif
+}
+
