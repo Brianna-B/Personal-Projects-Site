@@ -1,10 +1,10 @@
 body {
-  font-family:"Georgia", serif;
+  font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
 background-image: url('http://www.intrawallpaper.com/static/images/White-Background-BD1.png');
 }
 h1{
   color: #800080;
-  font-family:"Impact", Charcoal, sans-serif;
+  font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 .container {
   text-align: center;
