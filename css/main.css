@@ -1,10 +1,10 @@
 body {
-  font-family:'Georgia', serif;
+  font-family:"Georgia", serif;
 background-image: url('http://www.intrawallpaper.com/static/images/White-Background-BD1.png');
 }
 h1{
-  color: purple;
-  font-family:'Impact', Charcoal, sans-serif
+  color: #800080;
+  font-family:"Impact", Charcoal, sans-serif;
 }
 .container {
   text-align: center;
