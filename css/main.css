@@ -1,8 +1,8 @@
-body {
+*body {
   font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
 background-image: url('http://www.intrawallpaper.com/static/images/White-Background-BD1.png');
 }
-h1{
+*body h1{
   color: #800080;
   font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
