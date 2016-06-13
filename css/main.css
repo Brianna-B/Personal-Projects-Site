@@ -14,10 +14,10 @@ body h4{
   color:#800080;
   text-align: center;
 }
-body p{
+.p-about-me{
   text-align: left;
 }
-.container {
-  
+.p-project1 {
+  text-align: left;
 }
 
