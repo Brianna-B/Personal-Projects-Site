@@ -1,5 +1,5 @@
 var main = function(){
-  $('.button').click(function(){
+  $('.btn').click(function(){
    var userSelection = prompt("Choose rock, paper, or scissors. Type "r" for rock, "p" for paper, or "s" for scissors");
    var compSelection = Math.random();
    if (compSelection<0.34){
