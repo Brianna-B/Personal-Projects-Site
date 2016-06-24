@@ -38,4 +38,5 @@ var main = function(){
 compare(userSelection, computerSelection);
   });
 
-};
+}
+$(document).ready(main);
