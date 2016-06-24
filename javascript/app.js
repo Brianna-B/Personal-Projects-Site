@@ -1,6 +1,6 @@
 var main = function(){
   $("#btn-play").click(function(){
-   window.alert("Choose rock, paper, or scissors. Type "r" for rock, "p" for paper, or "s" for scissors");
+   prompt("Choose rock, paper, or scissors. Type "r" for rock, "p" for paper, or "s" for scissors");
    var compSelection = Math.random();
    if (compSelection<0.34){
      compSelection="r";
