@@ -6,12 +6,13 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    border-radius: 25px;
 }
 li {
     float: left;
      color: #FE2E64;
-     border-radius: 25px;
-     padding: 20px; 
+     
+      
 }
 
 li a:link,li a:visited {
