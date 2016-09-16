@@ -1,6 +1,11 @@
 body {
   font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
 background-image: url('https://wallpaperscraft.com/image/pattern_background_light_line_texture_50877_1920x1080.jpg');
+} 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 li {
     float: left;
@@ -22,12 +27,8 @@ li a:hover,li a:active {
     text-decoration: none;
 }
     
-}
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
+
+
 
 /* Change the link color on hover */
 
