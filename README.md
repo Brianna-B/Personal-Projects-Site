@@ -1,2 +1,2 @@
-# Personal-Projects-Site
-My website of personal projects.
+# Personal-Blog
+My personal blog
