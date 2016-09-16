@@ -4,13 +4,14 @@ background-image: url('https://wallpaperscraft.com/image/pattern_background_ligh
 }
 li {
     float: left;
+     color: #FE2E64;
 }
 
 a {
     display: block;
     padding: 8px;
     background-color: #dddddd;
-    color: #FE2E64;
+    
 }
 ul {
     list-style-type: none;
