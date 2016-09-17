@@ -7,6 +7,10 @@ body {
   font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
  background-image: url('http://www.clipartsgram.com/image/2054878471-light-gray-pattern-wallpapers-desktop-background.jpg');
 } 
+img {
+  border: 25px solid black;
+  padding: 5px;
+}
 ul {
     list-style-type: none;
     margin: 0;
