@@ -10,7 +10,8 @@ ul {
     padding: 0;
     position: fixed;
     top: 0;
-    
+    border: 5px;
+  border-color: white;
     
 }
 li {
